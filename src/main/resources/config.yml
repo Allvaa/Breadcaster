@@ -1,0 +1,6 @@
+interval: 30 # in seconds
+prefix: "<st>                                                    </st>\n"
+messages:
+  - "Text formatting is made easy<b>!!!</b>"
+  - "<click:open_url:'https://webui.advntr.dev/'><u>Click here</u></click> to refer to the <b><red>Mini</red>Message</b> format."
+suffix: "\n<st>                                                    </st>"
